@@ -3,6 +3,8 @@
 
 Email Me 👉 ✉️ **devraj6477@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+- 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 - 🔭 **I’m currently working on:** project making and character or knowledge upskilling and updating myself.
 - 🌱 **I’m currently learning:** DSA and Wed development for project making.
 - 👯 **I’m looking to collaborate on:** my projects ->1. Mental health jornal and chatbot. 2. Ai powered resume and job description matcher 3.Carbon footprint tracker || and so on.
@@ -11,6 +13,7 @@ Email Me 👉 ✉️ **devraj6477@gmail.com** For Collaboration/Project or Anyth
 - 📫 **How to reach me:** devraj6477@gmail.com
 - 😄 **Pronouns:** Call me SONU.
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me.
+
 
 
 ## 🌐 Socials:
