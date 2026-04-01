@@ -33,7 +33,5 @@ Email Me 👉 ✉️ **devraj6477@gmail.com** For Collaboration/Project or Anyth
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=devraj-sonu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
