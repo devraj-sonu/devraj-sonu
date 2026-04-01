@@ -24,7 +24,7 @@ Email Me 👉 ✉️ **devraj6477@gmail.com** For Collaboration/Project or Anyth
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devraj-sonu&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devraj-sonu&show_icons=true&theme=radical)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devraj-sonu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
